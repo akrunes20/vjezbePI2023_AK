@@ -41,14 +41,14 @@
             this.dgvStudents.Location = new System.Drawing.Point(12, 12);
             this.dgvStudents.Name = "dgvStudents";
             this.dgvStudents.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgvStudents.Size = new System.Drawing.Size(776, 390);
+            this.dgvStudents.Size = new System.Drawing.Size(700, 375);
             this.dgvStudents.TabIndex = 0;
             // 
             // FrmStudents
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(800, 451);
             this.Controls.Add(this.dgvStudents);
             this.Name = "FrmStudents";
             this.Text = "FrmStudents";
